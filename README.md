@@ -57,7 +57,4 @@ node --test test/integration.test.js
 O teste de integração usa SQLite em memória e cobre login, permissões, cadastros, filtros, empréstimo, devolução, multa, reserva e rotação do refresh.
 
 Para mostrar a renovação no vídeo, ajuste `ACCESS_TOKEN_TTL=30s` só durante a gravação. Entre, abra o painel, espere 30 segundos e faça outra consulta; o front renova e repete a chamada. Depois mostre empréstimo, devolução com multa e um atendente recebendo 403 em uma rota de administrador. Restaure `15m` após a demonstração.
-# jwt-api-LEOMARQUES
-# jwt-api-LEOMARQUES
-# jwt-api-LEOMARQUES
-# jwt-api-LEOMARQUES
+
